@@ -40,7 +40,14 @@ The system can:
 
 ## Product Status
 
-text Functional MVP → deployed as a PWA → installable on mobile devices → tested in real usage → conversational transaction capture → structured financial registration 
+```text
+Functional MVP
+→ deployed as a PWA
+→ installable on mobile devices
+→ tested in real usage
+→ conversational transaction capture
+→ structured financial registration
+```
 
 ## Business Impact
 
@@ -57,25 +64,31 @@ The system is designed to improve measurable business outcomes, including:
 
 ## Architecture
 
-text Mobile or web PWA → secure server-side integration → AI assistant → structured data layer → financial records and reporting 
+```text
+Mobile or web PWA
+→ secure server-side integration
+→ AI assistant
+→ structured data layer
+→ financial records and reporting
+```
 
 ## Product Preview
 
 ### Mobile App
 
-Financial Operations Assistant mobile preview
+![Financial Operations Assistant mobile preview](images/mobile-app-preview.jpeg)
 
 ### Conversational Expense Capture
 
-Conversational expense capture
+![Conversational expense capture](images/conversational-expense-capture.jpeg)
 
 ### Transaction History
 
-Transaction history preview
+![Transaction history preview](images/transaction-history-preview.jpeg)
 
 ### Financial Report
 
-Financial report preview
+![Financial report preview](images/financial-report-preview.jpeg)
 
 ## Use Cases
 
@@ -93,7 +106,13 @@ This solution can be adapted to:
 
 This public repository contains product documentation and sanitized materials only.
 
-text financial-operations-assistant/ ├── README.md ├── docs/ ├── images/ └── workflows/ 
+```text
+financial-operations-assistant/
+├── README.md
+├── docs/
+├── images/
+└── workflows/
+```
 
 ## Security Notice
 
@@ -103,4 +122,4 @@ Source code, production credentials, private endpoints and personal data are not
 
 GROVA designs measurable, AI-powered growth systems for businesses across Latin America and the US Hispanic market.
 
-Growth Beyond Likes.
+**Growth Beyond Likes.**
