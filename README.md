@@ -64,15 +64,18 @@ The system is designed to improve measurable business outcomes, including:
 
 ## Architecture
 
+```text
 User interaction
 → Progressive Web App deployed on Netlify
 → Anthropic Claude Managed Agent
 → AI-powered interpretation and response generation
 → structured financial registration
 → reporting-oriented records
-AI Runtime
+```
 
-The application uses Anthropic Claude as its AI runtime through Claude Managed Agents and the Claude API.
+## AI Runtime
+
+The application uses **Anthropic Claude** as its AI runtime through Claude Managed Agents and the Claude API.
 
 Claude processes conversational inputs, interprets financial information and generates structured outputs that support transaction registration and reporting.
 
