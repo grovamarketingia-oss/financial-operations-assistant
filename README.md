@@ -56,6 +56,9 @@ The system is designed to improve measurable business outcomes, including:
 - Reduced manual errors
 
 ## Architecture
+
+text Mobile or web PWA → secure server-side integration → AI assistant → structured data layer → financial records and reporting 
+
 ## Product Preview
 
 ### Mobile App
@@ -73,7 +76,6 @@ Transaction history preview
 ### Financial Report
 
 Financial report preview
-text Mobile or web PWA → secure server-side integration → AI assistant → structured data layer → financial records and reporting 
 
 ## Use Cases
 
