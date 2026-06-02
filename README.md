@@ -56,7 +56,23 @@ The system is designed to improve measurable business outcomes, including:
 - Reduced manual errors
 
 ## Architecture
+## Product Preview
 
+### Mobile App
+
+Financial Operations Assistant mobile preview
+
+### Conversational Expense Capture
+
+Conversational expense capture
+
+### Transaction History
+
+Transaction history preview
+
+### Financial Report
+
+Financial report preview
 text Mobile or web PWA → secure server-side integration → AI assistant → structured data layer → financial records and reporting 
 
 ## Use Cases
